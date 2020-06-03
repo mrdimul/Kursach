@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.009,=C:\Users\Dima-Notebook\Documents\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.596,C:\Users\Dima-Notebook\Documents\Projects\Курсовая резерв\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit4.dfm=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\spravochnik.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая резерв\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.237,=C:\Users\Dima-Notebook\Documents\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit4.pas=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\spravochnik.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.310,=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\modulestudenty.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit1.dfm=C:\Users\Dima-Notebook\Documents\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Unit1.pas=C:\Users\Dima-Notebook\Documents\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.027,C:\Users\Dima-Notebook\Documents\Projects\Курсовая 1\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.993,=C:\Users\Dima-Notebook\Documents\Projects\Курсовая резерв\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая 1\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.990,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.373,C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj=C:\Users\Dima-Notebook\Documents\Projects\Курсовая\Project1.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="modulestudenty.pas"/>
+    <File Path="modulestudenty.dfm"/>
+    <File Path="Unit1.pas"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit2.pas"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="spravochnik.pas"/>
+    <File Path="spravochnik.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
